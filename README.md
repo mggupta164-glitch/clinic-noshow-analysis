@@ -1,4 +1,4 @@
-**GitHub Repository:** https://github.com
+**GitHub Repository:** https://github.com/mggupta164-glitch/clinic-noshow-analysis
 
 ## 4-Line Summary (Parts 1–4)
 - **Part 1 (Data Cleaning):** Cleaned the raw clinic dataset from 1,020 rows to **990** valid appointments with an overall no-show rate of **22.0%** (218 no-shows) after removing duplicates, invalid dates/statuses, and capping outliers.
